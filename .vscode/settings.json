@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5501,
+     "liveServer.settings.AdvanceCustomBrowserCmdLine": "/C:/Program Files/Google/Chrome/Application/chrome",
+"liveServer.settings.CustomBrowser": "chrome",
+ "liveServer.settings.donotShowInfoMsg": true,
+    "git.ignoreLimitWarning": true
+}
